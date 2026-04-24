@@ -24,7 +24,6 @@ This project compares four machine learning models for predicting the next-day p
 stock-price-prediction/
 │
 ├── stock_prediction.py     # Main pipeline script (data → features → train → evaluate → plots)
-├── stock_prediction.ipynb  # Jupyter notebook version (same pipeline, cell-by-cell)
 ├── requirements.txt        
 ├── results_summary.csv     
 ├── figures/                
