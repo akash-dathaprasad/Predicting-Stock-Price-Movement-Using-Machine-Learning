@@ -64,16 +64,6 @@ To skip LSTM training (faster testing):
 python stock_prediction.py --no-lstm
 ```
 
-### 3. Run the notebook version
-
-```bash
-jupyter notebook stock_prediction.ipynb
-```
-
-Run all cells from top to bottom. Each cell is labelled with what it does.
-
----
-
 ## Features Used
 
 | Feature | Description |
