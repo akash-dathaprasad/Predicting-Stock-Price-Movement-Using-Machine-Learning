@@ -25,9 +25,9 @@ stock-price-prediction/
 │
 ├── stock_prediction.py     # Main pipeline script (data → features → train → evaluate → plots)
 ├── stock_prediction.ipynb  # Jupyter notebook version (same pipeline, cell-by-cell)
-├── requirements.txt        # Python dependencies
-├── results_summary.csv     # Auto-generated results table after running the pipeline
-├── figures/                # Auto-generated plots (created on first run)
+├── requirements.txt        
+├── results_summary.csv     
+├── figures/                
 │   ├── fig_accuracy_comparison.png
 │   ├── fig_confusion_matrices.png
 │   ├── fig_feature_importance.png
