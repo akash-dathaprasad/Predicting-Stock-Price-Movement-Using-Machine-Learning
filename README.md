@@ -1,6 +1,6 @@
 # Predicting Stock Price Movement Using Machine Learning
 
-**ML Course Project — Spring 2025**  
+**ML Course Project — Spring 2026**  
 Akash Dathaprasad · Bala Joseph Nithish Reddy Dondeti  
 University of North Florida
 
