@@ -6,7 +6,7 @@ ML Course Project — Spring 2025
 
 Authors : Akash Dathaprasad, Bala Joseph Nithish Reddy Dondeti
 Dataset : Daily OHLCV data via yfinance (2015-2023)
-          Falls back to synthetic data if yfinance is unavailable.
+          
 
 Usage:
     python stock_prediction.py            # run full pipeline
