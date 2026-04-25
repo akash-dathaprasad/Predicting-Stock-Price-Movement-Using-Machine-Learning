@@ -2,7 +2,7 @@
 stock_prediction.py
 ====================
 Predicting Stock Price Movement Using Machine Learning
-ML Course Project — Spring 2025
+ML Course Project — Spring 2026
 
 Authors : Akash Dathaprasad, Bala Joseph Nithish Reddy Dondeti
 Dataset : Daily OHLCV data via yfinance (2015-2023)
