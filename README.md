@@ -1,4 +1,4 @@
-## Proper file uploaded the drive
+## Proper file of code and data uploaded in the drive
 # Predicting Stock Price Movement Using Machine Learning
 
 **ML Course Project — Spring 2026**  
